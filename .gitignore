@@ -1,0 +1,3 @@
+#Ignore the database file
+
+database/project_db.sqlite3
