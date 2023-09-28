@@ -21,7 +21,7 @@ I chose to use Streamlit for this project because it enables rapid app developme
 
 **Languages Used** : Python, SQL
 
-**Libraries/Frameword Used** : Streamlit, SQLAlchemy
+**Libraries/Framework Used** : Streamlit, SQLAlchemy
 
 This is the public repository, but I have created it with a new file that is saved in private mode because it contains a database in the folder. I thought it would be a good idea to maintain privacy by keeping it in private mode and deploying it on a server, such as Streamlit. Currently, this app is accessible through the following URL.
 
