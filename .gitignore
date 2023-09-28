@@ -1,4 +1,4 @@
 #Ignore the database file
 
-# database/project_db.sqlite3
-# code_db.py
+database/project_db.sqlite3
+code_db.py

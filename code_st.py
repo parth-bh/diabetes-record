@@ -147,5 +147,3 @@ if authentication_status == True:
 
     except Exception as error:
         print("error occured: ",error)
-
-
